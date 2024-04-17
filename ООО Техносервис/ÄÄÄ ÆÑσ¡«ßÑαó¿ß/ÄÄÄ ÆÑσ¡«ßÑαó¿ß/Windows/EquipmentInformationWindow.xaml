@@ -1,0 +1,69 @@
+﻿<Window x:Class="ООО_Техносервис.Windows.EquipmentInformationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООО_Техносервис.Windows"
+        mc:Ignorable="d"
+        Title="Информация о заявках" Height="350" Width="600" Loaded="Window_Loaded" FontSize="16">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="315*"/>
+            <RowDefinition Height="0"/>
+        </Grid.RowDefinitions>
+       
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+            <ListView x:Name="EquipmentList" Grid.Column="0" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="EquipmentList_SelectionChanged">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                        <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Border BorderBrush="Black" BorderThickness="1">
+                            <StackPanel Margin="2">
+                                    <TextBlock Text="{Binding StringFormat=Название оборудования: {0}, Path=IdEquipmentNavigation.NameEquipment}"/>
+                                <TextBlock Text="{Binding StringFormat=Серийный номер: {0}, Path=IdEquipmentNavigation.SeriaEquipment}"/>
+                                <TextBlock Text="{Binding StringFormat=Тип оборудования: {0}, Path=IdEquipmentNavigation.TypeEquipmentNavigation.TypeName}"/>
+                                <TextBlock Text="{Binding StringFormat=Причины ремонта: {0}, Path=IdEquipmentNavigation.CauseEquipment}"/>
+                                <TextBlock Text="{Binding StringFormat=Цена ремонта: {0}, Path=Cost}"/>
+                                <TextBlock Text="{Binding StringFormat=Статус ремонта: {0}, Path=StatusNavigation.StatusName}"/>
+                                <TextBlock Text="{Binding StringFormat=Комментарий: {0}, Path=Comment}"/>
+                                <TextBlock Text="{Binding StringFormat=Исполнитель ремонта: {0}, Path=ExecutorNavigation.NameUser}"/>
+
+                            </StackPanel>
+                            </Border>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Grid Grid.Column="1">
+                <StackPanel Margin="20" x:Name="redactStack" Visibility="Collapsed">
+                    <TextBlock>Статус</TextBlock>
+                    <ComboBox x:Name="StatusCombo"></ComboBox>
+                    <TextBlock>Исполнитель</TextBlock>
+                    <ComboBox x:Name="ExecutorCombo"></ComboBox>
+                    <TextBlock>Описание проблемы</TextBlock>
+                    <TextBox x:Name="CauseEquipmentText"></TextBox>
+                    <Button Click="SaveButton_Click" Margin="10">Сохранить</Button>
+                </StackPanel>
+                <Button Grid.Column="0" Click="ReturnButton_Click" Margin="10" Width="60" Height="40" VerticalAlignment="bottom">Назад</Button>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="453*"/>
+                <ColumnDefinition Width="267*"/>
+            </Grid.ColumnDefinitions>
+            
+        </Grid>
+    </Grid>
+</Window>

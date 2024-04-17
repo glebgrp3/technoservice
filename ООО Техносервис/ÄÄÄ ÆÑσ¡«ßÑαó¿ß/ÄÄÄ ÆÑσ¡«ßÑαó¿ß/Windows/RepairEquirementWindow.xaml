@@ -1,0 +1,25 @@
+﻿<Window x:Class="ООО_Техносервис.Windows.RepairEquirementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООО_Техносервис.Windows"
+        mc:Ignorable="d"
+        Title="Добавление оборудование к заявке" Height="330" Width="400" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel Grid.Row="1" Margin="20">
+            <TextBlock>Номер заявки</TextBlock>
+            <ComboBox x:Name="ComboNumberRequest" SelectedIndex="0"></ComboBox>
+            <TextBlock>Серия оборудования</TextBlock>
+            <ComboBox x:Name="ComboEq" SelectedIndex="0"></ComboBox>
+            <TextBlock>Цена</TextBlock>
+            <TextBox x:Name="CostText"></TextBox>
+            <TextBlock>Исполнитель</TextBlock>
+            <ComboBox Name="ComboExecutor" SelectedIndex="0"></ComboBox>
+            <TextBlock>Комментарий</TextBlock>
+            <TextBox x:Name="CommentText"></TextBox>
+            <Label></Label>
+            <Button Click="AddEqButton_Click" Margin="20">Добавить оборудование к заявке</Button>
+        </StackPanel>
+    </Grid>
+</Window>

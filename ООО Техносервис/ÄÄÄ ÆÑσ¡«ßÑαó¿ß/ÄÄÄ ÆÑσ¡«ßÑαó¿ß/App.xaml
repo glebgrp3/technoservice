@@ -1,0 +1,9 @@
+﻿<Application x:Class="ООО_Техносервис.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ООО_Техносервис"
+             StartupUri="Windows/AuthWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

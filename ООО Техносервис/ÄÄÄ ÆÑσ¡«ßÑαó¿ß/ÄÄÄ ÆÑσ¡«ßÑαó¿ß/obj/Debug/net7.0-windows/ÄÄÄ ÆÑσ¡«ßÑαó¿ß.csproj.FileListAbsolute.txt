@@ -1,0 +1,108 @@
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.exe
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.deps.json
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.runtimeconfig.json
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.AssemblyReference.cache
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.cache
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.lref
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.g.resources
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfoInputs.cache
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfo.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CoreCompileInputs.cache
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CopyComplete
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\refint\ООО Техносервис.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.genruntimeconfig.cache
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ref\ООО Техносервис.dll
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RequestWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RequestWindow.baml
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EquipmentInformationWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EquipmentInformationWindow.baml
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequestWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequestWindow.baml
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RepairEquirementWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RepairEquirementWindow.baml
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddClientWindow.g.cs
+C:\Users\yrok0\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddClientWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.AssemblyReference.cache
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddClientWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequestWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EquipmentInformationWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RepairEquirementWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RequestWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.cache
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.lref
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\refint\ООО Техносервис.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.exe
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.deps.json
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.runtimeconfig.json
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddClientWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequestWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EquipmentInformationWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RepairEquirementWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\RequestWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.g.resources
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfoInputs.cache
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfo.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CoreCompileInputs.cache
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CopyComplete
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.genruntimeconfig.cache
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ref\ООО Техносервис.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\zxing.dll
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\QRCodeWindow.g.cs
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\QRCodeWindow.baml
+C:\Users\gleb\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\QRCoder.dll
